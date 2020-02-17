@@ -9,7 +9,7 @@ type contactInfo struct {
 
 type person struct {
 	firstName string
-	lastName  string7u
+	lastName  string
 	contactInfo
 }
 
